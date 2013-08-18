@@ -1,6 +1,6 @@
 # ephemeral_server
 
-FIXME
+Main server for the Ephemeral MapReduce Engine
 
 ## Prerequisites
 
@@ -14,6 +14,5 @@ To start a web server for the application, run:
 
     lein ring server
 
-## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Eric Gesell
